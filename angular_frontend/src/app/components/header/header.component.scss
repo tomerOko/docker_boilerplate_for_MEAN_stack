@@ -1,0 +1,15 @@
+#container{
+  width: 100%;
+  max-width: 100%;
+  height: 8vh;
+  background-color: #247397;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+#headline{
+  color: white;
+  font-size: 4vh;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
